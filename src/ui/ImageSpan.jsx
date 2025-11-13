@@ -5,7 +5,7 @@ import cx from 'classnames';
 import React, {Component} from 'react';
 import {Entity} from 'draft-js';
 
-import styles from './ImageSpan.css';
+import styles from './ImageSpan.module.css';
 
 import type {ContentState} from 'draft-js';
 

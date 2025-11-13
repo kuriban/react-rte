@@ -4,7 +4,7 @@ import React, {Component} from 'react';
 import cx from 'classnames';
 import autobind from 'class-autobind';
 
-import styles from './Button.css';
+import styles from './Button.module.css';
 
 type EventHandler = (event: Event) => any;
 

@@ -3,7 +3,7 @@
 import React from 'react';
 import cx from 'classnames';
 
-import styles from './ButtonWrap.css';
+import styles from './ButtonWrap.module.css';
 
 type Props = {
   className?: string;

@@ -16,7 +16,7 @@ import clearEntityForRange from './clearEntityForRange';
 import autobind from 'class-autobind';
 import cx from 'classnames';
 
-import styles from './EditorToolbar.css';
+import styles from './EditorToolbar.module.css';
 
 import type EventEmitter from 'events';
 import type {ToolbarConfig, CustomControl} from './EditorToolbarConfig';

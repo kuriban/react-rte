@@ -5,7 +5,7 @@ import cx from 'classnames';
 import Button from './Button';
 import ButtonWrap from './ButtonWrap';
 
-import styles from './IconButton.css';
+import styles from './IconButton.module.css';
 
 type Props = {
   iconName: string;

@@ -6,7 +6,7 @@ import ButtonGroup from './ButtonGroup';
 import autobind from 'class-autobind';
 import cx from 'classnames';
 
-import styles from './InputPopover.css';
+import styles from './InputPopover.module.css';
 
 type CheckOptionValues = {
   [key: string]: boolean;
